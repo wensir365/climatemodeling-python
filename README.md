@@ -9,7 +9,7 @@ This code pack is aimed to provide a set of code to those students who choose my
 ### Get a copy
 git clone https://github.com/wensir365/climatemodeling-python.git
 
-If you use Microsoft Windows PC, you may get a free copy by visit https://github.com/wensir365/climatemodeling-ython, and click the green button "Clone or download", and choose "Download ZIP".
+If you use Microsoft Windows PC, you may get a free copy by visit https://github.com/wensir365/climatemodeling-python, and click on the green button "Clone or download", then choose "Download ZIP".
 
 ### Add a file
 git add main.f90
