@@ -1,7 +1,6 @@
 # README
 
-By Xinyu Wen
-Apr 9, 2018
+By Xinyu Wen at Apr 9, 2018
 
 ## Description
 
