@@ -1,0 +1,9 @@
+Apr 9, 2018
+
+Please download NCEP/NCAR reanalysis data before running any python scripts by:
+
+wget ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/hgt.2000.nc
+wget ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.dailyavgs/pressure/hgt.2016.nc
+
+Thanks,
+Xinyu
